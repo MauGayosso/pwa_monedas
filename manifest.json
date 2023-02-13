@@ -1,6 +1,6 @@
 {
     "name" : "MonedasConmemorativas",
-    "id" : "MonedasConmemorativas",
+    "id" : "com.monedasconmemorativas",
     "short_name" : "MonedasConmemorativas",
     "start_url" : "https://maugayosso.github.io/pwa_monedas/",
     "display" : "standalone",
