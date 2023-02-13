@@ -1,7 +1,7 @@
 {
-    "name" : "MonedasCon20",
+    "name" : "mondeas'conmemorativas",
     "id" : "com.monedasconmemorativas",
-    "short_name" : "MonedasCon",
+    "short_name" : "monedasCon",
     "start_url" : "https://maugayosso.github.io/pwa_monedas/",
     "display" : "standalone",
     "background_color" : "#fdfdfd",
