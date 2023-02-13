@@ -1,7 +1,7 @@
 const staticDevCoffee = "dev-coffee-site-v1"
 const assets = [
     "/pwa_monedas/",
-    "/pwa_monedas/images/logoB.jpg"
+    "/pwa_monedas/images/"
 ]
 
 self.addEventListener("install", installEvent => {
