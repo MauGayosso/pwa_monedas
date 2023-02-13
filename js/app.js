@@ -7,7 +7,7 @@ const coffees = [
         name : "Quincuagésimo aniversario de la aplicación del Plan DN-III-E", image : "/pwa_monedas/images/2.png"
     },
     {
-        name : "Centenario de la promulgación de la Constitución Política de los Estados Unidos Mexicanos del 5 de febrero de 1917", image : "/pwa_monedas/images/3.png"
+        name : "Centenario de la promulgación de la Constitución Política", image : "/pwa_monedas/images/3.png"
     },
     {
         name : "Bicentenario luctuoso del generalísimo José María Morelos y Pavón", image : "/pwa_monedas/images/4.png"

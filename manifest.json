@@ -8,8 +8,8 @@
     "theme_color" : "#db4938",
     "orientation": "any",
     "icons" : [{
-        "src" : "/pwa_monedas/images/logoB.png",
-        "sizes" : "192x192"
+        "src" : "/pwa_monedas/images/logo.png",
+        "sizes" : "215x201"
     }
 ]
 }
