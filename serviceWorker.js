@@ -1,4 +1,4 @@
-const staticDevCoffee = "dev-coffee-site-v1"
+const staticMoneda = "dev-moneda-v1"
 const assets = [
     "/pwa_monedas",
     "/pwa_monedas/images/",
@@ -9,7 +9,7 @@ const assets = [
 
 self.addEventListener("install", installEvent => {
     installEvent.waitUntil(
-        caches.open(staticDevCoffee).then(cache => {
+        caches.open(staticMoneda).then(cache => {
             cache.addAll(assets)
         })
     )
