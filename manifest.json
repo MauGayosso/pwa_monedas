@@ -7,9 +7,9 @@
     "background_color" : "#fdfdfd",
     "theme_color" : "#db4938",
     "orientation": "any",
-    "icons" : {
+    "icons" : [{
         "src" : "/pwa_monedas/images/logoE.png",
         "sizes" : "360x356"
-    }
+    }]
 
 }
